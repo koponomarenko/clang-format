@@ -1,0 +1,5 @@
+# Qt Creator import proj files
+*.creator.user
+
+# Meson build directories
+build*
